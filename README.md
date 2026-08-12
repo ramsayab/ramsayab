@@ -50,15 +50,6 @@ I'm a Computer Science student focused on backend engineering and machine learni
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ramsayab&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsayab&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
-</div>
-
----
-
 ### 📬 Contact
 
 <div align="center">
